@@ -7,15 +7,15 @@
 }
 
 .header {
-  background-color: #007bff; /* Celeste */
-  height: 140px; /* Altura de la franja */
+  background-color: #007bff; 
+  height: 140px; 
   position: relative;
 }
 .header-img {
   position: absolute;
   top: 0;
   right: 0;
-  height: 130px; /* Ajusta la altura según la franja */
+  height: 130px; 
   width: auto;
 }
 .header-text {
@@ -27,7 +27,7 @@
   color: #fff;
 }
 
-/* Estilos para la franja celeste de preguntas */
+
 .middle-header {
   margin-top: 150px;
   background-color: #007bff;
@@ -43,9 +43,9 @@
   position: relative;
   width: 100%;
   max-width: 800px;
-  margin: 100px auto 0 auto; /* Margen superior para centrar el carrusel más abajo */
+  margin: 100px auto 0 auto; 
   overflow: hidden;
-  /* Aumenta el tamaño del carrusel */
+ 
   max-width: 1280px;
   height: 720px;
 }
@@ -81,7 +81,7 @@
   right: 0;
 }
 
-/* Estilos para las preguntas y opciones */
+
 #question {
   margin-top: 60px;
   font-size: 30px;
@@ -98,7 +98,7 @@
   margin: 0 10px;
   padding: 10px 20px;
   font-size: 16px;
-  background-color: #007bff; /* Celeste */
+  background-color: #007bff; 
   color: #fff;
   border: none;
   border-radius: 5px;
@@ -107,9 +107,9 @@
 }
 
 #options button:hover {
-  background-color: #0056b3; /* Celeste más oscuro */
+  background-color: #0056b3; 
 }
-/* Estilos para los botones correctos e incorrectos */
+
 .correcto {
   background-color: green !important;
 }
@@ -118,7 +118,7 @@
   background-color: red !important;
 }
 
-/* Estilos para las preguntas y opciones */
+
 #question2 {
   margin-top: 100px;
   font-size: 30px;
@@ -135,7 +135,7 @@
   margin: 0 10px;
   padding: 10px 20px;
   font-size: 16px;
-  background-color: #007bff; /* Celeste */
+  background-color: #007bff; 
   color: #fff;
   border: none;
   border-radius: 5px;
@@ -144,9 +144,9 @@
 }
 
 #options2 button:hover {
-  background-color: #0056b3; /* Celeste más oscuro */
+  background-color: #0056b3; 
 }
-/* Estilos para los botones correctos e incorrectos */
+
 .correcto {
   background-color: green !important;
 }
@@ -155,7 +155,7 @@
   background-color: red !important;
 }
 
-/* Estilos para las preguntas y opciones */
+
 #question3 {
   margin-top: 100px;
   font-size: 30px;
@@ -172,7 +172,7 @@
   margin: 0 10px;
   padding: 10px 20px;
   font-size: 16px;
-  background-color: #007bff; /* Celeste */
+  background-color: #007bff; 
   color: #fff;
   border: none;
   border-radius: 5px;
@@ -181,9 +181,9 @@
 }
 
 #options3 button:hover {
-  background-color: #0056b3; /* Celeste más oscuro */
+  background-color: #0056b3; 
 }
-/* Estilos para los botones correctos e incorrectos */
+
 .correcto {
   background-color: green !important;
 }
@@ -192,7 +192,7 @@
   background-color: red !important;
 }
 
-/* Estilos para las preguntas y opciones */
+
 #question4 {
   margin-top: 100px;
   font-size: 30px;
@@ -209,7 +209,7 @@
   margin: 0 10px;
   padding: 10px 20px;
   font-size: 16px;
-  background-color: #007bff; /* Celeste */
+  background-color: #007bff; 
   color: #fff;
   border: none;
   border-radius: 5px;
@@ -218,9 +218,9 @@
 }
 
 #options4 button:hover {
-  background-color: #0056b3; /* Celeste más oscuro */
+  background-color: #0056b3; 
 }
-/* Estilos para los botones correctos e incorrectos */
+
 .correcto {
   background-color: green !important;
 }
@@ -229,7 +229,7 @@
   background-color: red !important;
 }
 
-/* Estilos para las preguntas y opciones */
+
 #question5 {
   margin-top: 100px;
   font-size: 30px;
@@ -246,7 +246,7 @@
   margin: 0 10px;
   padding: 10px 20px;
   font-size: 16px;
-  background-color: #007bff; /* Celeste */
+  background-color: #007bff; 
   color: #fff;
   border: none;
   border-radius: 5px;
@@ -255,9 +255,9 @@
 }
 
 #options5 button:hover {
-  background-color: #0056b3; /* Celeste más oscuro */
+  background-color: #0056b3; 
 }
-/* Estilos para los botones correctos e incorrectos */
+
 .correcto {
   background-color: green !important;
 }
@@ -266,7 +266,7 @@
   background-color: red !important;
 }
 
-/* Agrega la fuente Pixelify Sans a las preguntas */
+
 #question,
 #question2,
 #question3,
